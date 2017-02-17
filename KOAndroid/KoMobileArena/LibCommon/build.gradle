@@ -44,7 +44,4 @@ dependencies {
     compile 'com.alibaba:arouter-api:1.0.4'
     annotationProcessor 'com.alibaba:arouter-compiler:1.0.1'
 
-    compile 'com.jakewharton:butterknife:8.2.1'
-    annotationProcessor 'com.jakewharton:butterknife-compiler:8.2.1'
-
 }
